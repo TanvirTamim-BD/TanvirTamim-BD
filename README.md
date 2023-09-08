@@ -4,6 +4,6 @@ I'm. Tanvir Tamim. a Web Developer & Mobile Apps Developer. I've more than 2 yea
 
 Skills: HTML / CSS / Bootstrap / JavaScript / Vue JS / PHP / Laravel / Ajax / Flutter / MYSQL / Firebase / GitHub / Linux 
 
-An enthusiastic Software Developer and Problem Solver
+An enthusiastic Software Developer and Problem Solve
 - 👯 I’m looking to collaborate on Some Big Project 
 - 📫 How to reach me: Visit https://tanvirtamim.netlify.app 
